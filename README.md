@@ -60,6 +60,24 @@ Today, I combine my financial services background with technical skills in Pytho
 
 ## Featured Projects
 
+## 🧠 U.S. Mental Health During COVID-19
+
+**Tableau | Data Visualization | Public Health Analytics**
+
+Analyzed anxiety and depression trends across the United States using CDC Household Pulse Survey data (2020–2024). Built interactive dashboards to identify geographic disparities, demographic patterns, and pandemic-related mental health trends.
+
+### Highlights
+- Interactive KPI Dashboard
+- Geographic Analysis
+- Demographic Insights
+- Anxiety vs. Depression Comparison
+- State Ranking Analysis
+- Public Health Recommendations
+
+➡️ [View Project](./US-Mental-Health-During-COVID)
+
+---
+
 ### 🍷 Wine Quality Prediction
 **Python | Scikit-Learn | Machine Learning | Neural Networks | PCA**
 
