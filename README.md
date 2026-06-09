@@ -1,2 +1,100 @@
-# data-analytics-portfolio
-Data Analytics, Machine Learning, SQL, Tableau, and Power BI projects by Sarita
+# Sarita Thapa – Data Analytics Portfolio
+
+📍 Houston, Texas
+
+🎓 Master of Science in Business Analytics (May 2026) | University of Houston
+
+Welcome to my Data Analytics Portfolio. This repository showcases projects that demonstrate my skills in data analytics, machine learning, business intelligence, SQL, and data visualization.
+
+---
+
+## My Story
+
+My journey into analytics began in banking.
+
+For over six years at Nabil Bank, I worked in payment operations, settlements, reconciliations, dispute management, compliance reporting, and financial operations. While much of the work focused on ensuring accuracy and resolving transaction discrepancies, I became fascinated by what the data was telling us beyond the numbers.
+
+I enjoyed identifying patterns, investigating anomalies, and understanding why issues occurred—not just correcting them. That experience showed me how data can drive business decisions and inspired me to pursue a Master of Science in Business Analytics.
+
+Today, I combine my financial services background with technical skills in Python, SQL, Tableau, Power BI, and machine learning to transform data into actionable insights.
+
+> "Information tells you what is happening. Insights explain why it matters and what action to take."
+
+---
+
+## Technical Skills
+
+### Programming & Analytics
+- Python
+- SQL
+- R
+- Excel
+
+### Data Visualization
+- Power BI
+- Tableau
+
+### Databases
+- PostgreSQL
+- Neo4j
+
+### Machine Learning & Analytics
+- Predictive Analytics
+- Classification Models
+- Neural Networks
+- Model Evaluation
+- Feature Engineering
+- Statistical Analysis
+
+---
+
+## Featured Projects
+
+### 🍷 Wine Quality Prediction
+**Python | Scikit-Learn | Machine Learning | Neural Networks | PCA**
+
+Developed and evaluated machine learning models to predict wine quality using physicochemical properties. Compared neural networks and traditional classifiers through cross-validation and hyperparameter tuning.
+
+➡️ [View Project](./Wine-Quality-Prediction)
+
+---
+
+## Upcoming Projects
+
+### 📊 Telecom Churn Prediction
+Customer churn prediction using machine learning techniques.
+
+### 🏥 CLABSI Healthcare Analytics
+Statistical analysis of healthcare-associated infections and risk factors.
+
+### 📈 Power BI Outdoor Adventures Dashboard
+Interactive dashboard using Power BI and DAX.
+
+### 🗄️ CountyMatch PostgreSQL Analysis
+SQL-based analysis of U.S. county demographic and economic data.
+
+### 🌐 Neo4j Nobel Prize Analytics
+Graph database project exploring Nobel Prize relationships using Neo4j.
+
+---
+
+## Professional Interests
+
+I am interested in opportunities involving:
+
+- Data Analytics
+- Business Analytics
+- Business Intelligence
+- Financial Services Analytics
+- Payments Analytics
+- Operations Analytics
+- Risk & Fraud Analytics
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/saritathapa137
+- GitHub: https://github.com/saritathapa1021
+
+Thank you for visiting my portfolio!
