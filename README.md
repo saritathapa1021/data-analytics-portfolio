@@ -2,23 +2,33 @@
 
 📍 Houston, Texas
 
-🎓 Master of Science in Business Analytics (May 2026) | University of Houston
+🎓 Master of Science in Business Analytics | University of Houston (2026)
 
 Welcome to my Data Analytics Portfolio. This repository showcases projects that demonstrate my skills in data analytics, machine learning, business intelligence, SQL, and data visualization.
 
 ---
 
+## Quick Snapshot
+
+- 💳 6+ years in Banking Operations & Payments
+- 📊 M.S. Business Analytics, University of Houston
+- 🐍 Python | SQL | Power BI | Tableau
+- 🤖 Machine Learning & Predictive Analytics
+- 📍 Houston, Texas
+
 ## My Story
 
 My journey into analytics began in banking.
 
-For over six years at Nabil Bank, I worked in payment operations, settlements, reconciliations, dispute management, compliance reporting, and financial operations. While much of the work focused on ensuring accuracy and resolving transaction discrepancies, I became fascinated by what the data was telling us beyond the numbers.
+Over six years at Nabil Bank, I worked in payment operations, settlements, reconciliations, dispute management, compliance reporting, and financial operations. While much of the work focused on ensuring accuracy and resolving transaction discrepancies, I became fascinated by what the data was telling us beyond the numbers.
 
 I enjoyed identifying patterns, investigating anomalies, and understanding why issues occurred—not just correcting them. That experience showed me how data can drive business decisions and inspired me to pursue a Master of Science in Business Analytics.
 
 Today, I combine my financial services background with technical skills in Python, SQL, Tableau, Power BI, and machine learning to transform data into actionable insights.
 
-> "Information tells you what is happening. Insights explain why it matters and what action to take."
+> Information tells you what is happening.
+>
+> Insights explain why it matters and what action to take.
 
 ---
 
@@ -59,24 +69,6 @@ Developed and evaluated machine learning models to predict wine quality using ph
 
 ---
 
-## Upcoming Projects
-
-### 📊 Telecom Churn Prediction
-Customer churn prediction using machine learning techniques.
-
-### 🏥 CLABSI Healthcare Analytics
-Statistical analysis of healthcare-associated infections and risk factors.
-
-### 📈 Power BI Outdoor Adventures Dashboard
-Interactive dashboard using Power BI and DAX.
-
-### 🗄️ CountyMatch PostgreSQL Analysis
-SQL-based analysis of U.S. county demographic and economic data.
-
-### 🌐 Neo4j Nobel Prize Analytics
-Graph database project exploring Nobel Prize relationships using Neo4j.
-
----
 
 ## Professional Interests
 
